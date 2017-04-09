@@ -11,11 +11,10 @@ npm install node-array-module --save
 
 var array = require('node-array-module');
 
-
+```javascript
 ## METHODS
 var arr = [1, 2, 3, 4]
 
-```javascript
 # arraySum
 This function returns the sum of values in an array
 
